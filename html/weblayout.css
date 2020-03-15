@@ -1,0 +1,18 @@
+.header {
+  background-color: #e9ecef;
+  color: black;
+  font-size: 15px;
+  padding: 15px;
+  height: 200px;
+  align-items: center;
+}
+
+.navbar {
+  width: 100%;
+  color: #e9ecef;
+}
+.navbar ul > li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 15px;
+}
